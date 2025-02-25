@@ -8,5 +8,5 @@
 - **Interfaz intuitiva**: Diseño sencillo y fácil de usar para que cualquier persona pueda organizar un amigo secreto sin complicaciones.
 
 - ## Captura de pantalla📸
-- 
+- <img src="./images/Captura2.png"></img>
 - 
