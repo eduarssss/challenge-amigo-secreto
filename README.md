@@ -9,4 +9,11 @@
 
 - ## Captura de pantalla📸
 - <img src="./images/Captura2.PNG"></img>
-- 
+
+## Cómo ejecutar el proyecto
+Sigue estos pasos para ejecutar el proyecto en tu máquina local:
+
+**Clona el repositorio**:
+   ```bash
+   git clone https://github.com/eduarssss/challenge-amigo-secreto.git
+   cd challenge-amigo-secreto
